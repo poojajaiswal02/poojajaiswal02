@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Eduroutez**
 
-- 🌱 I’m currently learning **ReactJs**
-
 - 💬 Ask me about **ReactJs, Web Technologies**
 
 - 📫 How to reach me **jaiswalpooja8767@gmail.com**
